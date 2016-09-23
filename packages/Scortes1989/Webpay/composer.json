@@ -1,0 +1,17 @@
+{
+    "name": "sebastiancortes/webpay",
+    "description": "Conector para webpay",
+    "authors": [
+        {
+            "name": "Sebastian  Cortes",
+            "email": "seba.cortes1989@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Scortes1989\\Webpay\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
